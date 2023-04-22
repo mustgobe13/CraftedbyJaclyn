@@ -1,0 +1,574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views.py",
+			"settings":
+			{
+				"buffer_size": 94,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "def"
+					},
+					"BAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAmAAAAAAAAABoAAAAjIENyZWF0ZSB5b3VyIHZpZXdzIGhlcmUuCiYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " home"
+					},
+					"BQAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAC0AAAAAAAAALwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "request"
+					},
+					"BwAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\nretue"
+					},
+					"BwAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "rn"
+					},
+					"AgAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " render"
+					},
+					"BwAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEYAAAAAAAAARgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAEYAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "reuqe"
+					},
+					"BQAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEsAAAAAAAAASwAAAAAAAAABAAAAZUoAAAAAAAAASgAAAAAAAAABAAAAcUkAAAAAAAAASQAAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "quest,"
+					},
+					"BgAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAE8AAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAFAAAAAAAAAAUgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "home.html"
+					},
+					"CQAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFsAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAFwAAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAFwAAAAAAAAAXAAAAAAAAAABAAAAW1wAAAAAAAAAXAAAAAAAAAABAAAAXQ",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAFwAAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAAE8AAAAAAAAATwAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFoAAAAAAAAAWgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAFoAAAAAAAAAWwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "templates/home.html",
+			"settings":
+			{
+				"buffer_size": 21,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "<h1"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"insert_completion",
+					{
+						"completion": "h1>$0</h1>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "h1"
+					},
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAACAAAAaDEBAAAAAAAAAAkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "Hello"
+					},
+					"BQAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " WOw"
+					},
+					"BAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAwAAAAAAAAADAAAAAAAAAABAAAAdwsAAAAAAAAACwAAAAAAAAABAAAATw",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "orld!"
+					},
+					"BQAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brian/blog",
+		"/Users/brian/blog/photoblog",
+		"/Users/brian/blog/photoblog/mgo",
+		"/Users/brian/blog/photoblog/photoblog"
+	],
+	"file_history":
+	[
+		"/Users/brian/blog/photoblog/mgo/urls.py",
+		"/Users/brian/blog/photoblog/photoblog/settings.py",
+		"/Users/brian/blog/photoblog/photoblog/urls.py",
+		"/Users/brian/Documents/manage.py",
+		"/Users/brian/blog/photoblog/mgooutdoors/admin.py",
+		"/Users/brian/blog/photoblog/mgooutdoors/models.py",
+		"/Users/brian/blog/photoblog/mgooutdoors/templates/home.html",
+		"/Users/brian/blog/photoblog/mgooutdoors/urls.py",
+		"/Users/brian/blog/photoblog/mgooutdoors/views.py",
+		"/Users/brian/photoblog/mgooutdoors/binnature/models.py",
+		"/Users/brian/photoblog/mgooutdoors/binnature/admin.py",
+		"/Users/brian/photoblog/mgooutdoors/binnature/templates/home.html",
+		"/Users/brian/photoblog/mgooutdoors/binnature/urls.py",
+		"/Users/brian/photoblog/mgooutdoors/binnature/views.py",
+		"/Users/brian/photoblog/mgooutdoors/mgooutdoors/settings.py",
+		"/Users/brian/photoblog/mgooutdoors/mgooutdoors/urls.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "naturephotoblog.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
